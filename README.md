@@ -1,4 +1,2 @@
-ud989-cat-clicker-ko-starter
+Arudan's Cat Clicker
 ============================
-
-ud989-cat-clicker-ko-starter
